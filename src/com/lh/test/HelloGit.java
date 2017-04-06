@@ -5,6 +5,6 @@ public class HelloGit {
 		System.out.println("hello git!");
 	}
 	public static void main(String[] args) {
-		
+		new HelloGit().say();
 	}
 }
